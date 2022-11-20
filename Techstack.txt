@@ -1,0 +1,6 @@
+- Next.js
+- Sanity
+- TypeScript
+- Tailwind CSS
+- React Hook Form
+- React Portable Text
